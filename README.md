@@ -1,0 +1,4 @@
+I got these tasks from CODING SAMURAI internship training program. These tasks is on learning and developing new skills and gaining hands-on knowledge.
+1. To-Do-List: Developed a Python-based command-line to-do list application with task management features, including adding, listing, marking, deleting, and saving tasks. Implemented file handling to ensure data persistence across sessions
+2. Weather Forecast Application: Developed a Python-based command-line tool that fetches and displays current weather data for any location using an external API. Implemented features include unit conversion, error handling, and user-friendly input 
+3. Expense Tracker: Created a Python-based command-line application that allows users to manage expenses by tracking spending categories, calculating totals, and generating monthly reports. Implemented data persistence through file handling for seamless retrieval of financial history
